@@ -14,13 +14,13 @@ fn(state => {
 
 //Using the DB data, we want to submit new data values to report on the key dataElement
 create('dataValueSets', {
-  dataSet: 'lyLU2wR22tC', //Label: 
+  dataSet: 'BfMAe6Itzgt', //Label: Child Health
   completeDate: '2014-02-03',
   period: '201401', //reporting period: January 2014
-  orgUnit: 'fdc6uOvgoji', //Label: 
+  orgUnit: 'O6uvpzGd5pu', //Label: Bo
   dataValues: [
     {
-      dataElement: 'fbfJHSPpUQD', //Label: 
+      dataElement: 's46m5MS0hxu', //Label: BCG doses given
       value: state => state.numberOfRows, //return calculated indicator result
     }
   ],
