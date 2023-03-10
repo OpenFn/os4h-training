@@ -2,7 +2,7 @@
 
 Created for the OS4H team to save copies of OpenFn jobs prototyped as part of their OpenFn implementation training and practice. 
 
-*Note that commits to `master` will be auto-deployed to OpenFn.org. Always work on a branch, and submit a PR to merge to `master`!*
+*Note that commits to `main` will be auto-deployed to OpenFn.org. Always work on a branch, and submit a PR to merge to `main`!*
 
 ## Getting started with the Repo
 
