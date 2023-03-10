@@ -1,4 +1,3 @@
-// language-postgresql
 sql(
   state =>
     `  SELECT * FROM patient`,
